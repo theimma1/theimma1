@@ -15,7 +15,7 @@ Data Science & Machine Learning, passionate about building intelligent systems t
 **Tools:** Git, Docker, Jupyter, VS Code, Linux
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theimma1&show_icons=true&theme=dark)
 
 ## 🔥 Featured Projects
 - 🤖 [**Labelee Foundation Model**](link) - Multi-modal AI system with 768M+ parameters
