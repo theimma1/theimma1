@@ -4,7 +4,7 @@
 
 I am a Data Science & Machine Learning Student at Texas Tech University, passionate about building intelligent systems that solve real-world problems.
 
-- 🎓 Graduating **May 2026** with a BBA in Information Technology.
+- 🎓 BBA in Information Technology and a concentration in Information Systems and Quantitative Sciences.
 - 🔬 Currently focused on multi-modal AI systems and geospatial optimization.
 - 💼 Technical Intern at **Nexus Nova Innovation**.
 - 🌱 Always learning: Deep Learning, Computer Vision, and advanced NLP techniques.
