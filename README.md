@@ -1,7 +1,7 @@
 <h1 align="center">Immanuel Olajuyigbe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=CEO+%26+Founder+%7C+Labeele;AI+Infrastructure+Architect;Autonomous+Systems+Pioneer;Multi-Modal+AI+Researcher;Building+the+Future+of+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=CEO+%26+CTO+%7C+Labeele.AI;AI+Infrastructure+Architect;Autonomous+Systems+Pioneer;Published+Blockchain+Researcher;Building+the+Future+of+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ```python
 class Vision:
     mission = "Democratize access to autonomous AI workforce"
-    building = "Labeele - The Future of Enterprise Intelligence"
+    building = "Labeele.AI - The Future of Enterprise Intelligence"
     impact = "Enabling anyone to launch, operate, and scale complex businesses"
     
     @property
@@ -35,41 +35,67 @@ class Vision:
 
 ## 🚀 About Me
 
-**CEO & Founder** of **[Labeele.AI](https://github.com/theimma1)** — the first autonomous AI-native enterprise powered by proprietary multi-agent orchestration.
+**CEO & CTO** of **[Labeele.AI](https://github.com/theimma1)** — the first autonomous AI-native enterprise powered by proprietary multi-agent orchestration.
 
-**Current Role:** CEO & CTO @ **Labeele.AI**  
 **Education:** BBA in Information Technology (Data Systems & Quantitative Sciences) @ **Texas Tech University**
 
 ```yaml
-role: "CEO & Founder @ Labeele"
+role: "CEO & CTO @ Labeele.AI"
 focus: "Autonomous AI Systems & Enterprise Intelligence"
 education: "Texas Tech University (Dean's List Spring 2025)"
 expertise: 
   - "AI Infrastructure & Agent Orchestration"
   - "Multi-Modal Foundation Models"
   - "Distributed Systems Architecture"
-  - "Geospatial Optimization & Analytics"
-  - "Hydrogen Fuel Innovation"
+  - "Blockchain Technology & Trust Systems"
+  - "Published Research in Blockchain Applications"
 current_projects:
   - "DUKE Model (Proprietary Autonomous Intelligence)"
   - "DukeNET (AI Orchestration Platform)"
   - "AINet Protocol (Next-Gen AI Infrastructure)"
+research: "Blockchain design patterns, stakeholder trust, last-mile delivery optimization"
 interests: ["Autonomous Systems", "AI Infrastructure", "Blockchain", "Agent Economies", "Real-time Learning"]
 ```
 
 ---
 
-## 🏢 Labeele: Autonomous AI-Native Enterprise
+## 🏆 Recent Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Stealth_Mode-667EEA?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Research-Published-success?style=for-the-badge&logo=academia&logoColor=white" alt="Published" />
+  <img src="https://img.shields.io/badge/Conference-SWDSI_2026-667EEA?style=for-the-badge" alt="Conference" />
+  <img src="https://img.shields.io/badge/Track-Student_Research-764BA2?style=for-the-badge" alt="Track" />
+</p>
+
+### 📜 Published Research (March 2026)
+
+**"Blockchain Design Choices in Last-Mile Delivery: Linking Technology Features to Stakeholder Trust and Collaboration"**
+
+Accepted for presentation at the **55th Annual Southwest Decision Sciences Institute (SWDSI) Conference 2026** in the Student Track.
+
+**Research Focus:**
+- Blockchain architecture patterns for supply chain optimization
+- Technology feature analysis and stakeholder trust modeling
+- Collaborative systems design in last-mile delivery
+- Bridging technical implementation with business outcomes
+
+**Conference:** SWDSI 2026 | March 18-21, 2026  
+**Significance:** Selected through highly competitive peer review process  
+**Impact:** Advancing understanding of blockchain applications in logistics and supply chain management
+
+---
+
+## 🏢 Labeele.AI: Autonomous AI-Native Enterprise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-667EEA?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Stage-Pre--Seed-764BA2?style=for-the-badge" alt="Stage" />
   <img src="https://img.shields.io/badge/Patents-Pending-1E3C72?style=for-the-badge" alt="Patents" />
 </p>
 
 ### What We're Building
 
-Labeele is the **first autonomous AI-native enterprise** — a self-managing, multi-agent intelligence platform that executes, operates, and scales complete business workflows without human intervention.
+Labeele.AI is the **first autonomous AI-native enterprise** — a self-managing, multi-agent intelligence platform that executes, operates, and scales complete business workflows without human intervention.
 
 **Key Innovation:** The **DUKE Model** — a proprietary autonomous intelligence layer with six specialized AI personas (Security, ML, Systems, Backend, Advanced, Generalist) that function as a coordinated expert team.
 
@@ -112,7 +138,7 @@ Labeele is the **first autonomous AI-native enterprise** — a self-managing, mu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Expertise:** Distributed Systems, Protocol Design, API Architecture, Agent Orchestration
+**Expertise:** Distributed Systems, Protocol Design, API Architecture, Agent Orchestration, Blockchain
 
 </details>
 
@@ -133,7 +159,7 @@ Labeele is the **first autonomous AI-native enterprise** — a self-managing, mu
 
 ## 🔥 Featured Projects & Research
 
-### 🌐 **Labeele Ecosystem** (Proprietary - Limited Disclosure)
+### 🌐 **Labeele.AI Ecosystem** (Proprietary - Limited Disclosure)
 
 <table>
 <tr>
@@ -210,18 +236,18 @@ Performance-based incentive system:
 <tr>
 <td width="50%">
 
-#### 🌍 Hydrogen Station Optimizer
-**@ Nexus Nova Innovation**
+#### 🔗 Blockchain in Last-Mile Delivery
+**Published Research @ SWDSI 2026**
 
-Geospatial ML system identifying optimal locations for hydrogen fueling infrastructure across the US.
+Academic research examining blockchain design patterns for supply chain optimization:
+- Technology feature analysis
+- Stakeholder trust modeling
+- Collaborative system design
+- Real-world logistics applications
 
-**Methodology:**
-- Traffic flow modeling
-- Service area analysis
-- Predictive adoption modeling
-
-**Impact:** Strategic infrastructure planning  
-**Tech:** GeoPandas, Spatial Analysis, ML
+**Status:** Accepted for presentation (March 2026)  
+**Impact:** Advancing blockchain implementation science  
+**Institution:** Texas Tech University
 
 </td>
 <td width="50%">
@@ -243,6 +269,20 @@ Novel architecture combining vision + language:
 <tr>
 <td width="50%">
 
+#### 🌍 Hydrogen Station Optimizer
+**Geospatial Intelligence Research**
+
+ML-powered geospatial analysis for hydrogen fueling infrastructure:
+- Traffic flow modeling
+- Service area optimization
+- Predictive adoption analysis
+
+**Impact:** Strategic infrastructure planning  
+**Tech:** GeoPandas, Spatial Analysis, ML
+
+</td>
+<td width="50%">
+
 #### 💡 AI Test Case Generator
 **Local Generative AI API**
 
@@ -256,6 +296,8 @@ Self-hosted API with MPS acceleration:
 **Tech:** Flask, Transformers, MPS
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🏀 NBA 2K Build Assistant
@@ -270,26 +312,22 @@ ML-powered player optimization:
 **Tech:** Scikit-learn, Statistical Analysis
 
 </td>
-</tr>
-</table>
+<td width="50%">
 
----
+#### 🍎 Apple Health AI Ecosystem Analysis
+**Strategic Project Management Research**
 
-### 📈 **Strategic Consulting & Analysis**
-
-#### 🍎 Apple Health AI Ecosystem Development
-**Project Management & Critical Path Analysis**
-
-Comprehensive strategic analysis revealing that **regulatory compliance and healthcare partnerships**—not technical development—constrained the critical path for Apple's health AI initiatives.
-
-**Deliverables:**
-- Activity-on-Node (AON) network diagrams
-- Work Breakdown Structure (WBS) refinement
-- Critical path analysis & risk mitigation strategies
+Critical path analysis revealing regulatory bottlenecks:
+- AON network diagrams
+- WBS refinement & risk mitigation
 - Resource allocation optimization
 
-**Impact:** Strategic pivot in risk management approach  
+**Impact:** Strategic pivot recommendations  
 **Methods:** CPM, PERT, Monte Carlo simulation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -324,38 +362,48 @@ Comprehensive strategic analysis revealing that **regulatory compliance and heal
 class ProfessionalJourney:
     def __init__(self):
         self.current = {
-            "role": "CEO & Founder",
-            "company": "Labeele",
+            "role": "CEO & CTO",
+            "company": "Labeele.AI",
             "focus": "Autonomous AI-Native Enterprise",
-            "stage": "Pre-Seed",
-            "building": ["DUKE Model", "DukeNET Platform", "AINet Protocol"]
+            "stage": "Pre-Seed / Active Development",
+            "building": [
+                "DUKE Model (Autonomous Intelligence)",
+                "DukeNET Platform (Agent Orchestration)",
+                "AINet Protocol (AI Infrastructure)",
+                "DUKE Token Economy"
+            ]
         }
         
-        self.concurrent = {
-            "role": "AI Research Engineer",
-            "company": "Nexus Nova Innovation",
-            "projects": ["Hydrogen Infrastructure Optimization", "Hover-Car Innovation"]
+        self.research = {
+            "published": "Blockchain in Last-Mile Delivery (SWDSI 2026)",
+            "focus_areas": [
+                "Multi-agent systems",
+                "Blockchain trust mechanisms",
+                "Supply chain optimization",
+                "AI infrastructure design"
+            ]
         }
         
         self.experience = {
             "AI/ML": "4+ years building production systems",
-            "Leadership": "Led 5+ member teams, 40% engagement improvement",
+            "Leadership": "Founded and scaled organizations",
             "Data": "Annotated datasets for Google, Meta, OpenAI models",
-            "Consulting": "Strategic analysis for Fortune 500 initiatives"
+            "Research": "Published academic work in blockchain applications"
         }
     
     def get_impact(self):
         return {
             "systems_built": "Enterprise-grade autonomous AI platform",
-            "team_productivity": "+25% improvement through KPI tracking",
-            "efficiency_gains": "10x faster workflows through automation",
+            "research_contribution": "Published blockchain research",
+            "team_leadership": "Founded Delta Sigma Phi TTU chapter",
+            "engagement_improvement": "+40% through strategic initiatives",
             "vision": "Democratizing access to autonomous workforce"
         }
 ```
 
 ---
 
-## 🎓 Education & Recognition
+## 🎓 Education & Leadership
 
 **Texas Tech University** — Rawls College of Business  
 Bachelor of Business Administration, Information Technology  
@@ -368,9 +416,21 @@ Bachelor of Business Administration, Information Technology
 - Database Systems Architecture
 - Information Systems Strategy
 
-**Leadership:**
-- **Association of Information Technology Professionals (AITP)** — Active Member
-- **Delta Sigma Phi** — Founder & Social Chair (40% engagement increase)
+### Leadership & Community
+
+**Delta Sigma Phi — Texas Tech University, Zeta Zeta Chapter**  
+*Founding Member, Social Chair (October 2022 - May 2024)*
+- **Founded** the Zeta Zeta Chapter at Texas Tech University
+- Served as **Social Chair**, orchestrating chapter events and member engagement
+- Achieved **40% increase in member engagement** through strategic event planning
+- Built data-driven retention approaches and implemented feedback systems
+- Established foundational culture and operational processes for new chapter
+
+**Association of Information Technology Professionals (AITP)**  
+*Active Member (August 2023 - May 2025)*
+- Engaged with professional development opportunities
+- Networked with industry leaders and fellow technologists
+- Participated in technical workshops and career development initiatives
 
 ---
 
@@ -382,18 +442,20 @@ Bachelor of Business Administration, Information Technology
 
 ### 🔬 Research
 - Advancing autonomous agent orchestration
+- Blockchain trust systems
 - Cross-modal fusion architectures
-- Distributed AI communication protocols
+- Distributed AI protocols
 - Real-time learning systems
 
 </td>
 <td width="33%">
 
 ### 🏗️ Building
-- Scaling Labeele platform
+- Scaling Labeele.AI platform
 - DukeNET API ecosystem
 - DUKE token economy
 - Enterprise partnerships
+- Seed funding round
 
 </td>
 <td width="33%">
@@ -403,6 +465,7 @@ Bachelor of Business Administration, Information Technology
 - Distributed systems at scale
 - Regulatory frameworks (AI/ML)
 - Venture capital operations
+- Token economics
 
 </td>
 </tr>
@@ -413,10 +476,11 @@ Bachelor of Business Administration, Information Technology
 ## 🤝 Let's Connect
 
 I'm actively seeking:
-- 💰 **Seed investors** for Labeele
+- 💰 **Seed investors** for Labeele.AI
 - 🤝 **Technical co-founders** passionate about autonomous AI
-- 🔬 **Research collaborators** in multi-agent systems
+- 🔬 **Research collaborators** in multi-agent systems and blockchain
 - 🏢 **Enterprise partners** for early adoption
+- 🎓 **Academic partnerships** for continued research
 
 <p align="center">
   <a href="https://www.linkedin.com/in/immanuel-olajuyigbe">
@@ -439,6 +503,10 @@ I'm actively seeking:
   <i>"True intelligence isn't about answering questions. It's about executing vision."</i>
 </p>
 
+<p align="center">
+  <i>"Research without execution is philosophy. Execution without research is gambling."</i>
+</p>
+
 ---
 
 <p align="center">
@@ -446,5 +514,5 @@ I'm actively seeking:
 </p>
 
 <p align="center">
-  <sub>⭐ Star my repositories if you find them interesting | 🔔 Watch for updates on Labeele</sub>
+  <sub>⭐ Star my repositories if you find them interesting | 🔔 Watch for updates on Labeele.AI</sub>
 </p>
