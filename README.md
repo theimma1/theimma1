@@ -35,9 +35,9 @@ class Vision:
 
 ## 🚀 About Me
 
-**CEO & Founder** of **[Labeele](https://github.com/theimma1)** — the first autonomous AI-native enterprise powered by proprietary multi-agent orchestration.
+**CEO & Founder** of **[Labeele.AI](https://github.com/theimma1)** — the first autonomous AI-native enterprise powered by proprietary multi-agent orchestration.
 
-**Current Role:** Hydrogen Fuel Systems Engineer & AI Researcher @ **Nexus Nova Innovation**  
+**Current Role:** CEO & CTO @ **Labeele.AI**  
 **Education:** BBA in Information Technology (Data Systems & Quantitative Sciences) @ **Texas Tech University**
 
 ```yaml
