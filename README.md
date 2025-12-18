@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/immanuel-olajuyigbe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:theimmaone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:theimmaone@gmail.com"><img src="https://img.shields.io/badge/theimmaone@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=theimma1&style=for-the-badge&color=667EEA" alt="Profile Views" />
 </p>
 
@@ -487,7 +487,7 @@ I'm actively seeking:
     <img src="https://img.shields.io/badge/LinkedIn-Partner_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:theimmaone@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Discuss_Investment-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/theimmaone@gmail.com-Discuss_Investment-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
