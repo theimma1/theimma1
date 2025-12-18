@@ -109,7 +109,7 @@ Labeele.AI is the **first autonomous AI-native enterprise** — a self-managing,
 - 🪙 **Economic Alignment** — DUKE token system rewarding quality and reliability
 - 🌐 **Programmable Workforce** — API-first architecture for seamless integration
 
-> **Note:** Detailed technical specifications and patents pending. Contact for partnership inquiries.
+> **Note:** Detailed technical specifications and patents pending. Contact for partnership inquiries at [theimmaone@gmail.com](mailto:theimmaone@gmail.com).
 
 ---
 
