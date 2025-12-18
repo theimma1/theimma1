@@ -19,9 +19,9 @@ I'm a **Data Science & Machine Learning Student** at **Texas Tech University**, 
 ```yaml
 current_focus: "Multi-modal AI systems & geospatial optimization"
 education: "BBA in Information Technology (Information Systems & Quantitative Sciences)"
-role: "Technical Intern @ Nexus Nova Innovation"
-learning: ["Deep Learning", "Computer Vision", "Advanced NLP", "Distributed Systems"]
-interests: ["AI Infrastructure", "Agent-Based Systems", "Real-time Learning"]
+role: "Hydrogen Fuel Systems Engineer/AI Researcher @ Nexus Nova Innovation"
+learning: ["Deep Learning", "Multi-modal AI", "Hydrogen Fuel Systems", "Computer Vision", "ML", "Advanced NLP", "Distributed Systems"]
+interests: ["AI Infrastructure", "ML/AI", "Blockchain", "Multi-modal AI', "Agent-Based Systems", "Real-time Learning"]
 ```
 
 ---
